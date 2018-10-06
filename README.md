@@ -2,7 +2,7 @@
 
 This is a simple calculator project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 
-It is a front-end app for REST service that is making calculations. <br> First clone REST app from [this repository](https://github.com/creationspirit/simple-calculator-REST-service)
+It is a front-end app for REST service that is making calculations. <br>
 
 
 - First clone REST app from [this repository](https://github.com/creationspirit/simple-calculator-REST-service)
