@@ -70,7 +70,7 @@ class App extends Component {
 
   async fetchResult(a, b, operation) {
     let encodedOperation = encodeURIComponent(operation);
-    let response = await axios(`/api/calculate?a=${a}&b=${b}&op=${encodedOperation}`);
+    let response = await axios(`/api/calculation?a=${a}&b=${b}&op=${encodedOperation}`);
     console.log(response);
     return response.data.result;
   }
